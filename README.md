@@ -17,7 +17,7 @@ Computational engineering and machine learning researcher who combines data-driv
 | [Deep Learning Surrogates for Carbon Sequestration](https://github.com/jonathanzingaro-jpg/Comparative-Study---Geological-Carbon-Sequestration-) | Comparative study of Temporal CNN, FNO, U-FNO, U-Net and V-Net surrogates for pressure build-up |
 | [Multiphase Poroelasticity FEM](https://github.com/jonathanzingaro-jpg/Coupled-Multiphase-Linear-Elasticity-) | Finite element framework coupling multiphase flow with porous media deformation (MATLAB) |
 | [STAT 940 Deep Learning Challenges](https://github.com/jonathanzingaro-jpg/STAT-940---Deep-Learning-Data-Challenges-) | Pretrained CNN ensemble for image classification (95.1% validation accuracy) and fine-tuned Transformer ensemble for essay scoring (0.335 test RMSE) |
-| [Reinforcement Learning](https://github.com/jonathanzingaro-jpg/CS-885---Reinforcement-Learning) | From planning to deep RL: value and policy iteration, Q-learning, DQN and PPO, with controlled experiments on a grid world and CartPole |
+| [CS 885 Reinforcement Learning](https://github.com/jonathanzingaro-jpg/CS-885---Reinforcement-Learning) | From planning to deep RL: value and policy iteration, Q-learning, DQN and PPO, with controlled experiments on a grid world and CartPole |
 
 ### Contact
 
